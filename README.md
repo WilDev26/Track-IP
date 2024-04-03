@@ -12,15 +12,20 @@
 ```bash
 pkg update  && pkg upgrade-y
 pkg install git -y
+pkg install bash -y
 ```
 ## install clone Repositoriku
-```bash
-git clone https://github.com/Bagassamuji/Track-IP.git```
-## BUKA FILE
+`bash
+git clone https://github.com/Bagassamuji/Track-IP.git
+`
+## BUKA FILE SALIN & COPY
 ```bash
 cd Track-IP
 ```
+
 ## JALAN FILE PROGRAM BASH.SHELL
 ```bash
+bash track.sh
+```
 
 ## AUTHOR : WILDEV'S
