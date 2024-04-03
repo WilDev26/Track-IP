@@ -15,9 +15,9 @@ pkg install git -y
 pkg install bash -y
 ```
 ## install clone Repositoriku
-`bash
+```bash
 git clone https://github.com/Bagassamuji/Track-IP.git
-`
+```
 ## BUKA FILE SALIN & COPY
 ```bash
 cd Track-IP
