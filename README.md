@@ -8,8 +8,8 @@
 <a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
 </p>
 
-## install package
+## install package otomatis 
 ```bash
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone git://github.com/Bagassamuji/Track-IP.git ; cd Track-IP ; bash Track-IP
 ```
 ## AUTHOR : WILDEV'S
