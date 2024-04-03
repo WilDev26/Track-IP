@@ -10,6 +10,17 @@
 
 ## install package otomatis 
 ```bash
-apt update ; apt install git curl -y ; git clone git://github.com/Bagassamuji/Track-IP.git ; cd Track-IP ; bash Track-IP
+pkg update  && pkg upgrade-y
+pkg install git -y
 ```
+## install clone Repositoriku
+```bash
+git clone https://github.com/Bagassamuji/Track-IP.git```
+## BUKA FILE
+```bash
+cd Track-IP
+```
+## JALAN FILE PROGRAM BASH.SHELL
+```bash
+
 ## AUTHOR : WILDEV'S
