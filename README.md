@@ -11,7 +11,11 @@
 ## install package otomatis 
 ```bash
 pkg update  && pkg upgrade-y
+```
+```bash
 pkg install git -y
+```
+```bash
 pkg install bash -y
 ```
 ## install clone Repositoriku
