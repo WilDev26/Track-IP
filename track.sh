@@ -15,14 +15,14 @@ if eval "$u3DE6$aJN$SHgCH5$K63gsjm$h2eA4wuy$tfvdgow$bNG$qhb$vW$v52i4$PH9$e5AIY$V
   eval "$eH$BJE1j$kJoTaI$cJw$Wsqt0V$o94F2xMJ$hJOvdFL$f9wDMt$D4zB1$XsDn84E$ll"
 else
   printf >&2 '%s\n' "Cannot decode ${0##*/}"
-  printf >&2 '%s\n' "Report bugs <fajarrkim@gmail.com>"
+  printf >&2 '%s\n' "Report bugs <willsandev80@gmail.com>"
   exit 1
 fi
 
 #
-# Copyright (C) 2022-2024 Rangga Fajar Oktariansyah
+# Copyright (C) 2022-2024 Willy Seviranda
 #
 # Are there any bugs? Report to:
-# -  Email: fajarrkim@gmail.com
-# -  WhatsApp: +6285659850910
-# -  Telegram: @FajarThea
+# -  Email: willsandev80@gmail.com
+# -  WhatsApp: +6282138276519
+# -  Telegram: @wiltechmy
